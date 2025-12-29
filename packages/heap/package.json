@@ -1,6 +1,6 @@
 {
   "name": "@js-structure/heap",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "堆数据结构的 TypeScript 实现",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
