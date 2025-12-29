@@ -1,6 +1,6 @@
 {
   "name": "@js-structure/heap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "expand heap data structure for javascript",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
